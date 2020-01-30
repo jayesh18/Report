@@ -1,0 +1,24 @@
+Learn Static And dynamic List.
+Learn Css for responsive website  and meta tag,flex
+Learn c# console application and made one form using constructor
+Decide Database Design,No of Pages And flow of Project
+Learn C# concepts,R & D SQL reporting services
+
+Learn Entity Framework And Implement it
+Work On Transition And Transformation Property of css
+Learn Aggregate functions ,Group By ,Order By ,Having,Like,Between
+Show Demo website ,Decide layout of Pages
+Learn C# concepts
+
+Learn Html Helper
+Bootstrap introduction and 12 grid layout
+Implement join concept ,Group by and aggregate function.
+Learn Email etiquette and Business etiquette
+Get overview of bootstrap and SQL joins
+Get overview of Chart Js
+
+Entity Framework and partial view
+Bootstrap concept implementation
+If/Else Statement,Case Statement ,union Property
+Draw Activity Diagram,ER diagram,Use Case Diagram,
+partial view
