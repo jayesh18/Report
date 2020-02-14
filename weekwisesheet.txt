@@ -1,0 +1,23 @@
+week 10
+
+Go through local git in visual  studio
+made wire frame of login and sign up page
+finalize wire frame
+Overview of chart js and sql reporting services
+
+Next Week Plan
+
+To create login and logout page 
+To Design Rough wireframe of dashboard
+
+
+Week 11:
+create login and logout page
+Design Rough wireframe of dashboard
+Learn sql reporting service
+Update Database Schema
+Also Update ER Diagramm
+
+Next Week Plan:
+To learn chart js
+To learn SQL reporting services
